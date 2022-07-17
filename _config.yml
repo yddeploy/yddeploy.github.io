@@ -13,7 +13,7 @@ git_edit_address: https://github.com/yddeploy/yddeploy.github.io/blob/master
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
 bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
-
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages 
 # Build settings
 markdown: kramdown
 highlighter: rouge
